@@ -1,0 +1,25 @@
+{
+  "name": "excel_to_json_nodejs",
+  "version": "1.0.0",
+  "description": "This will be used in preparing a json file for uploading domain data into Maximo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/york-region-tpss/excel_to_json_nodejs.git"
+  },
+  "keywords": [
+    "excel_to_json"
+  ],
+  "author": "xuh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/york-region-tpss/excel_to_json_nodejs/issues"
+  },
+  "homepage": "https://github.com/york-region-tpss/excel_to_json_nodejs#readme",
+  "devDependencies": {
+    "excel-as-json": "^2.0.1"
+  }
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "firstname": "Jihad",
+    "lastname": "Saladin",
+    "address": {
+      "street": "12 Beaver Court",
+      "city": "Snowmass",
+      "state": "CO",
+      "zip": 81615
+    }
+  },
+  {
+    "firstname": "Marcus",
+    "lastname": "Rivapoli",
+    "address": {
+      "street": "16 Vail Rd",
+      "city": "Vail",
+      "state": "CO",
+      "zip": 81657
+    }
+  }
+]
